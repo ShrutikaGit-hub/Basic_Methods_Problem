@@ -1,4 +1,4 @@
-These are the basic problems related to practising a methods concepts for a logic building !
+These are the basic problems related to practising a methods and OOP concepts !
 
 Following image is showing the output of these files
 
